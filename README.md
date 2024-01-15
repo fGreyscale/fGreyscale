@@ -12,7 +12,7 @@ Honestly, no idea. May or may not put some of my future projects here, but at th
 <h1></h1>
 <h3></h3>
 
-woah wait what markdown has footnotes??[^1]. [^2].
+woah wait what markdown has footnotes??[^1] [^2]
 
 [^1]: woa this is a footnote holy shit that's so cool
 [^2]: this readme is a hot messdfghjhgfdsfgh
